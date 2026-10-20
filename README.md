@@ -115,7 +115,7 @@ Contributing to Clemson University's workforce development platform by building 
 
 - 🏠 Resident Community Mentor
 - 🌟 Break Through Tech AI Fellow
-- 👩🏽‍💻 College Loops Social Media Manager & Treasurer
+- 👩🏽‍💻 Clemson College Loops Vice President
 - 🎓 CECAS Student Advisory Board
 - 🚀 Previous Propel2Excel Fellow
 
@@ -142,7 +142,7 @@ Contributing to Clemson University's workforce development platform by building 
 
 - 🤸 Former gymnast
 - 🧩 I love puzzles, indie video games, and running
-- 🕷️ I recently completed a 100% run of Hollow Knight: Silksong
+- 🕷️ I recently completed a 100% and 108% run of both Hollow Knight Games
 - 🌱 Passionate about using technology for social impact and sustainability
 
 ---
