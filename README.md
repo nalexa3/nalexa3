@@ -4,7 +4,7 @@
 💻 Software Engineer | AI Developer | Full-Stack Developer | Cloud Enthusiast  
 🌱 Passionate about building technology that solves real-world problems through AI, web development, and data analytics.
 
-I'm currently a **Digital Analyst Intern** at InvestiNet, where I where I analyze business data, automate workflows, and develop solutions that improve operational efficiency. I enjoy transforming complex data into meaningful insights while continuing to grow my software engineering and AI development skills.
+I recently completed my **Digital Analyst Intern** role at InvestiNet, where I analyzed business data, automated workflows, and developed solutions that improve operational efficiency. I enjoy transforming complex data into meaningful insights while continuing to grow my software engineering and AI development skills.
 
 Outside the classroom, I'm actively involved in leadership through organizations like **College Loops**, the **CECAS Student Advisory Board**, and as a **Resident Community Mentor**. I love collaborating with diverse teams and building technology that creates meaningful impact.
 
